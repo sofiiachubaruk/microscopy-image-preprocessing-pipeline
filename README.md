@@ -15,8 +15,7 @@ The pipeline includes:
 bug-skin-image-preprocessing/
 ├── notebooks/
 │   └── Image_preprocessing.ipynb
-├── data/
-│   └── sample_png/
+├── sample_png/
 ├── outputs/
 ├── requirements.txt
 └── README.md
