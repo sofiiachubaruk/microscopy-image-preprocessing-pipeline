@@ -16,7 +16,7 @@ bug-skin-image-preprocessing/
 ├── notebooks/
 │   └── Image_preprocessing.ipynb
 ├── data/
-│   └── sample_raw/
+│   └── sample_png/
 ├── outputs/
 ├── requirements.txt
 └── README.md
